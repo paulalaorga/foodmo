@@ -1,0 +1,115 @@
+  
+  .ellipse.property-default {
+    background-color: #fbe7b7;
+    border-radius: 82px/80px;
+    height: 160px;
+    position: relative;
+    width: 164px;
+}
+
+.ellipse.property {
+    background-color: #fbe7b7;
+    border-radius: 82px/80px;
+    height: 161px;
+    width: 482px;
+}
+ 
+.desktop .recipes-container {
+    height: 365px;
+    left: 171px;
+    position: absolute;
+    top: 585px;
+    width: 1041px;
+  }
+  
+  .desktop .row {
+    height: 162px;
+    left: 1px;
+    position: absolute;
+    top: 203px;
+    width: 1037px;
+  }
+  
+  .desktop .ellipse {
+    background-color: #ffd6d6;
+    border-radius: 82px/80px;
+    height: 160px;
+    left: 699px;
+    position: absolute;
+    top: 0;
+    width: 164px;
+    border: none; /* Explicitly set border to none */
+  }
+  
+  .desktop .ellipse-2 {
+    background-color: #ffe4cb;
+    border-radius: 82px/80px;
+    height: 160px;
+    left: 873px;
+    position: absolute;
+    top: 0;
+    width: 164px;
+  }
+  
+  .desktop .fb {
+    height: 161px;
+    left: 176px;
+    position: absolute;
+    top: 1px;
+    width: 505px;
+  }
+  
+  .desktop .ellipse-3 {
+    background-color: #ecddfd;
+    border-radius: 82px/80px;
+    height: 160px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 164px;
+  }
+  
+  .desktop .row-2 {
+    height: 161px;
+    left: 1px;
+    position: absolute;
+    top: 2px;
+    width: 1037px;
+  }
+  
+  .desktop .ellipse-4 {
+    background-color: #fbe7b7;
+    border-radius: 82px/80px;
+    height: 160px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 164px;
+  }
+  
+  .desktop .fb-2 {
+    height: 161px;
+    left: 358px;
+    position: absolute;
+    top: 0;
+    width: 505px;
+  }
+  
+  .desktop .ellipse-5 {
+    height: 160px;
+    left: 873px;
+    position: absolute;
+    top: 0;
+    width: 164px;
+  }
+  
+  .desktop .ellipse-6 {
+    background-color: #ffdada;
+    border-radius: 82px/80px;
+    height: 160px;
+    left: 176px;
+    position: absolute;
+    top: 0;
+    width: 164px;
+  }
+  

@@ -1,6 +1,6 @@
 import PropTypes from "prop-types";
 import React, { useReducer } from "react";
-import "../views/style.css";
+import "../css/Buttons.css";
 
 const Ellipse = ({ property1, propertyDefaultClassName }) => {
     const initialState = {

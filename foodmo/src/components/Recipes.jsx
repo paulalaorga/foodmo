@@ -1,9 +1,9 @@
 import React from "react";
 import "../views/style.css"
-import { Ellipse } from "./Buttons";
+import { Ellipse } from "./assets/Buttons";
 
 
-export const Recipes = () => {
+const Recipes = () => {
  
     return (
         <div className="recipes-container">
@@ -25,3 +25,4 @@ export const Recipes = () => {
 
 }
 
+export default Recipes;

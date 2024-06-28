@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 import { NavBar } from "../components/NavBar";
-import { Recipes } from "../components/Recipes";
+import Recipes from "../components/Recipes";
 import { Menu } from "../components/Menu";
 
 const Desktop = () => {
